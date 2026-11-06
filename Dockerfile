@@ -7,4 +7,5 @@ COPY usef-vip /usr/share/nginx/html/usef-vip
 COPY usef-vip-2 /usr/share/nginx/html/usef-vip-2
 COPY bella-vip /usr/share/nginx/html/bella-vip
 COPY teste-router /usr/share/nginx/html/teste-router
+COPY floreser-wpp /usr/share/nginx/html/floreser-wpp
 EXPOSE 80
